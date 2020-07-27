@@ -2,6 +2,8 @@
 
 I'm a Full-Stack Javascript Developer searching for a dream job! :)
 
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)](https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
