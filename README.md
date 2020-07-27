@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Javascript Developer searching for a dream job! :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)](https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandr-Kuznetsov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)](https://www.linkedin.com/in/alexandr-kuznetsov-ba78921b3/)
 
 <h3>Things I code with</h3>
 <p>
