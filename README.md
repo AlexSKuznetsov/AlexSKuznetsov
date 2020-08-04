@@ -19,3 +19,14 @@ I'm a Full-Stack Javascript Developer searching for a dream job! :)
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+## 👩🏼‍🎓 Education
+
+**12-week intensive coding course** focused on full-stack JavaScript<br>
+[Elbrus Bootcamp](https://elbrusboot.camp/) - Moscow, Russia _(Mar 2020 - Jul 2020)_ <br>
+
+**Master’s Degree** in Risk management and investment analysis<br>
+[National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/studentsinfo) - Moscow, Russia _(2014 - 2015)_
+
+**Undergraduate Studies** in Managment and Marketing<br>
+[Financial University under the Government of the Russian Federation](https://en.fa.ru/about/) - Moscow, Russia _(2002 - 2008)_
