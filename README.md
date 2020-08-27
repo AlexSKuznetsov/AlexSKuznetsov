@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm a Full-Stack Javascript Developer searching for a dream job! :)
+I am a Frontend JavaScript Developer with industry experience in building websites and web applications. I specialize in JavaScript, React, Redux & Node.js, and I have professional experience working with various BPM engines such as Camunda, Zeebe & Bizagi and I searching for a dream job! :)
 
 <h3>Things I code with</h3>
 <p>
