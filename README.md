@@ -20,9 +20,9 @@ I am a Frontend JavaScript Developer with industry experience in building websit
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-```
+
 ![Visitor Count](https : //profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
-```
+
 
 ## 👩🏼‍🎓 Education
 
