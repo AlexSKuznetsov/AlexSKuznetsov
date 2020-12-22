@@ -21,7 +21,7 @@ I am a Frontend JavaScript Developer with industry experience in building websit
 </p>
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
 
 
 ## 👩🏼‍🎓 Education
