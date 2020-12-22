@@ -21,7 +21,6 @@ I am a Frontend JavaScript Developer with industry experience in building websit
 </p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
 
 
 ## 👩🏼‍🎓 Education
@@ -34,3 +33,7 @@ I am a Frontend JavaScript Developer with industry experience in building websit
 
 **Undergraduate Studies** in Managment and Marketing<br>
 [Financial University under the Government of the Russian Federation](https://en.fa.ru/about/) - Moscow, Russia _(2002 - 2008)_
+
+## Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
