@@ -23,7 +23,7 @@ I am a Frontend JavaScript Developer with industry experience in building websit
 
 
 
-## 👩🏼‍🎓 Education
+## 📖🏼‍🎓 Education
 
 **12-week intensive coding course** focused on full-stack JavaScript<br>
 [Elbrus Coding Bootcamp](https://elbrusboot.camp/) - Moscow, Russia _(Mar 2020 - Jul 2020)_ <br>
