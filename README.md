@@ -31,7 +31,7 @@ I am a Frontend JavaScript Developer with industry experience in building websit
 **Master’s Degree** in Risk management and investment analysis<br>
 [National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/studentsinfo) - Moscow, Russia _(2014 - 2015)_
 
-**Undergraduate Studies** in Managment and Marketing<br>
+**Bachelor degree** in Managment and Marketing<br>
 [Financial University under the Government of the Russian Federation](https://en.fa.ru/about/) - Moscow, Russia _(2002 - 2008)_
 
 ## Visitors
