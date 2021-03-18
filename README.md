@@ -28,7 +28,7 @@ I am a Fullstack JavaScript Developer with industry experience in building websi
 **12-week intensive coding course** focused on full-stack JavaScript<br>
 [Elbrus Coding Bootcamp](https://elbrusboot.camp/) - Moscow, Russia _(Mar 2020 - Jul 2020)_ <br>
 
-**Master’s Degree** in Risk management and investment analysis<br>
+**Master’s Degree** Project management<br>
 [National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/studentsinfo) - Moscow, Russia _(2014 - 2015)_
 
 **Bachelor's Degree** in Managment and Marketing<br>
