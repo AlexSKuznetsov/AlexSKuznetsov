@@ -2,7 +2,7 @@
 
 I am a Fullstack JavaScript Developer with industry experience in building websites and web applications. I specialize in JavaScript, React, Redux & Node.js, and I have professional experience working with various BPM engines such as Camunda, Zeebe & Bizagi. 😎
 
-[Download my current CV ⬇️](https://github.com/AlexSKuznetsov/AlexSKuznetsov/raw/master/CV%20Alexander%20Kuznetsov%200316.pdf)
+[Download my current CV ⬇️](https://github.com/AlexSKuznetsov/AlexSKuznetsov/raw/master/CV_Alexander_Kuznetsov.pdf)
 
 
 <h3>Things I code with</h3>
