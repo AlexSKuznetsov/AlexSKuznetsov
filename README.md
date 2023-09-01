@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a Fullstack JavaScript / TypeScript Developer with industry experience in building websites and web applications. I specialize in JavaScript, React, Redux & Node.js, and I have professional experience working with various BPM engines such as Camunda, Zeebe & Bizagi. 😎
+I am a Fullstack JavaScript / TypeScript Developer with industry experience in building websites and web applications. I specialize in JavaScript, React, Redux & Node.js, and I have professional experience working with various BPM engines such as Temporal, Camunda, Zeebe & Bizagi 😎
 
 [Download my current CV ⬇️](https://github.com/AlexSKuznetsov/AlexSKuznetsov/raw/master/CV_Alexander_Kuznetsov.pdf)
 
