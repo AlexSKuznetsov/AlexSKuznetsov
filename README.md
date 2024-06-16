@@ -27,10 +27,9 @@ Proven track record of delivering high-quality and innovative software solutions
 
 
 **Master’s Degree** Project management<br>
-[National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/en/) - Moscow, Russia _(2014 - 2015)_
-
+[National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/en/)
 **Bachelor's Degree** in Managment and Marketing<br>
-[Financial University under the Government of the Russian Federation](https://en.fa.ru/about/) - Moscow, Russia _(2002 - 2008)_
+[Financial University under the Government of the Russian Federation](https://en.fa.ru/about/)
 
 ## Visitors
 
