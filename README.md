@@ -25,12 +25,6 @@ Proven track record of delivering high-quality and innovative software solutions
 </p>
 
 
-
-**Master’s Degree** Project management<br>
-[National Research University Higher School of Economics, Higher School of Project Management Studies](https://pm.hse.ru/en/)
-**Bachelor's Degree** in Managment and Marketing<br>
-[Financial University under the Government of the Russian Federation](https://en.fa.ru/about/)
-
 ## Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/{AlexSKuznetsov}/count.svg)
